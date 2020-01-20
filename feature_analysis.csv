@@ -1,0 +1,116 @@
+,Name,Importance,rfecv_mask
+0,population,7.22082312491817,True
+1,renter_occupied_households,0.2871373130970766,True
+2,pct_renter_occupied,0.3801115752962035,True
+3,evictions,0.7227305865701942,True
+4,rent_burden,1.7466213236246142,True
+5,pct_white,2.13554439714399,True
+6,pct_af_am,0.5600412594573811,True
+7,pct_hispanic,1.6770747336499396,True
+8,pct_am_ind,0.5065446066376105,True
+9,pct_asian,9.497471598540338,True
+10,pct_nh_pi,0.4531278286243139,True
+11,pct_multiple,1.9056396201179555,True
+12,pct_other,0.8109397058783182,True
+13,poverty_rate,4.558520283546285,True
+14,pct_civilian_labor,0.49362784593352077,True
+15,pct_unemployment,0.367105258013234,True
+16,pct_uninsured_adults,0.10732824120137552,True
+17,pct_uninsured_children,0.20429437200090708,True
+18,pct_adult_obesity,3.1168417977935703,True
+19,pct_adult_smoking,0.11775838488245678,True
+20,pct_diabetes,0.09181146493070672,True
+21,pct_low_birthweight,0.021967528557502256,False
+22,pct_excessive_drinking,0.3097832349260184,True
+23,pct_physical_inactivity,2.329039641910292,True
+24,air_pollution_particulate_matter_value,1.102534971596977,True
+25,motor_vehicle_crash_deaths_per_100k,0.4589076392585338,True
+26,heart_disease_mortality_per_100k,0.3266533047541786,True
+27,pop_per_dentist,0.2837392181576156,True
+28,pop_per_primary_care_physician,0.08824658178524913,True
+29,pct_female,0.21312110962233144,True
+30,pct_below_18_years_of_age,0.13028707425438496,True
+31,pct_aged_65_years_and_older,1.1008199057804102,True
+32,pct_adults_less_than_a_high_school_diploma,0.13334262650752002,True
+33,pct_adults_with_high_school_diploma,6.400742936261376,True
+34,pct_adults_with_some_college,0.4004500053279662,True
+35,pct_adults_bachelors_or_higher,29.031236784107612,True
+36,birth_rate_per_1k,0.26253658399889923,True
+37,death_rate_per_1k,5.155771823918462,True
+38,state_08f8fb4,0.0,False
+39,state_09d8cd0,0.005036198244690721,False
+40,state_0f8930b,0.010817274268031356,False
+41,state_105e445,0.0,False
+42,state_158df01,6.881601079304334e-06,False
+43,state_1646cf6,0.0,False
+44,state_176f5f0,0.0,False
+45,state_1b0d913,0.07381683061178658,False
+46,state_1dcfd4e,0.016414846343930662,False
+47,state_20d32fc,0.07826917726236848,True
+48,state_2b7da97,0.02349019193440291,False
+49,state_3337bbb,0.0,False
+50,state_3745933,0.0,False
+51,state_375d4d3,0.0,False
+52,state_4522abc,0.0062702214738503395,False
+53,state_485e9af,0.0,False
+54,state_4c72956,0.08421938192930693,True
+55,state_4cd9667,0.0,False
+56,state_5029ed4,0.0,False
+57,state_5086a32,0.00290557098626761,False
+58,state_528ea9f,0.0,False
+59,state_52acab4,0.0,False
+60,state_64ffe5d,2.3492250094662912e-07,False
+61,state_698ab34,0.0,False
+62,state_6d287d7,0.0006208562035901671,False
+63,state_7572db1,0.055995533569037546,False
+64,state_78e8330,0.04089205547390328,False
+65,state_7dd3518,1.5352562369665934,True
+66,state_8036085,0.0,False
+67,state_842bd12,0.0,False
+68,state_914c15f,0.024253381723677803,False
+69,state_9d0874a,0.01021854327760524,False
+70,state_9d1e27d,0.0,False
+71,state_9dda412,0.0,False
+72,state_9e0007d,0.0,False
+73,state_9e065a4,0.0,False
+74,state_a952566,0.861105751436285,True
+75,state_b44cfe6,0.023068678889896523,False
+76,state_b795815,0.0,False
+77,state_bc77872,0.0003760005910790483,False
+78,state_c3dbf0a,0.0,False
+79,state_c479f0c,0.07886250729662686,True
+80,state_d233cec,0.0,False
+81,state_dc9ae72,0.0,False
+82,state_dfc21f3,0.0,False
+83,state_e2f94fa,0.0,False
+84,state_e74aca3,0.006169456253995579,False
+85,state_e899d7f,0.0,False
+86,state_fa605d5,0.0,False
+87,state_fb8cab1,0.00044779997935576025,False
+88,rucc_Metro - Counties in metro areas of 1 million population or more,6.508711290169536,True
+89,"rucc_Metro - Counties in metro areas of 250,000 to 1 million population",0.0007895188894326292,False
+90,"rucc_Metro - Counties in metro areas of fewer than 250,000 population",0.013146355721260265,False
+91,"rucc_Nonmetro - Completely rural or less than 2,500 urban population, adjacent to a metro area",0.00014388309973418495,False
+92,"rucc_Nonmetro - Completely rural or less than 2,500 urban population, not adjacent to a metro area",0.15788290756439421,True
+93,"rucc_Nonmetro - Urban population of 2,500 to 19,999, adjacent to a metro area",0.0009216290364022482,False
+94,"rucc_Nonmetro - Urban population of 2,500 to 19,999, not adjacent to a metro area",0.03658104136558576,False
+95,"rucc_Nonmetro - Urban population of 20,000 or more, adjacent to a metro area",0.0015034150505706658,False
+96,"rucc_Nonmetro - Urban population of 20,000 or more, not adjacent to a metro area",3.0499218035172576e-05,False
+97,urban_influence_Large-in a metro area with at least 1 million residents or more,4.885223213498682,True
+98,urban_influence_Micropolitan adjacent to a large metro area,0.12635825211059998,True
+99,urban_influence_Micropolitan adjacent to a small metro area,7.644948146973463e-05,False
+100,urban_influence_Micropolitan not adjacent to a metro area,0.0,False
+101,urban_influence_Noncore adjacent to a large metro area,0.00808610332974343,False
+102,"urban_influence_Noncore adjacent to a small metro and does not contain a town of at least 2,500 residents",0.0002819255188283973,False
+103,"urban_influence_Noncore adjacent to a small metro with town of at least 2,500 residents",0.0010402023397087525,False
+104,"urban_influence_Noncore adjacent to micro area and contains a town of 2,500-19,999 residents",0.01903765819588278,False
+105,"urban_influence_Noncore adjacent to micro area and does not contain a town of at least 2,500 residents",0.00965820194751613,False
+106,"urban_influence_Noncore not adjacent to a metro/micro area and contains a town of 2,500  or more residents",0.01259774300718522,False
+107,"urban_influence_Noncore not adjacent to a metro/micro area and does not contain a town of at least 2,500 residents",0.0009625916915918031,False
+108,urban_influence_Small-in a metro area with fewer than 1 million residents,0.15442093638571075,True
+109,economic_typology_Farm-dependent,0.06472223187332891,False
+110,economic_typology_Federal/State government-dependent,0.01618523616285683,False
+111,economic_typology_Manufacturing-dependent,0.004958805392202054,False
+112,economic_typology_Mining-dependent,0.012270165297554767,False
+113,economic_typology_Nonspecialized,0.0010236493730514577,False
+114,economic_typology_Recreation,0.31459619045579623,True
